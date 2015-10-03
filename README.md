@@ -9,6 +9,7 @@ To run the project from the command line, go to the dist folder and
 type the following:
 java -jar "Pulse.jar"
 
+
 @author, Anubhav Saxena
 contact@anubhavsaxena.info
 www.anubhavsaxena.info
