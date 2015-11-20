@@ -1,4 +1,4 @@
-Pulse
+#Pulse
 A simple and clean text editor by Anubhav Saxena
 
 Main class file - root/“Pulse.jar”.
