@@ -1,5 +1,5 @@
 #Pulse
-A simple and shiny text editor by Anubhav Saxena
+A simple and shiny text editor by Anubhav Saxena  
 
 Main class file - root/“Pulse.jar”.
 
@@ -11,7 +11,10 @@ type the following:
 $ java -jar "Pulse.jar"
 
 
-@author, Anubhav Saxena\n
-contact@anubhavsaxena.info\n
-www.anubhavsaxena.info\n
-www.github.com/AnubhavSaxena97\n
+@author, Anubhav Saxena       
+
+contact@anubhavsaxena.info      
+
+www.anubhavsaxena.info     
+
+www.github.com/AnubhavSaxena97    
